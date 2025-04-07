@@ -33,7 +33,7 @@ This landing page is front-end only. The email input field is currently not conn
 ## Demo
 
 Check out the live site here:  
-[https://Loveson1.github.io/modern-productivity](https://Loveson1.github.io/modern-productivity)
+[https://loveson1.github.io/modern-productivity/](https://loveson1.github.io/modern-productivity/)
 
 ## Getting Started
 
